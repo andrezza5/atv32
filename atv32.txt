@@ -1,0 +1,11 @@
+Exemplo de dados
+
+Dados usados em meu cotidiano:
+- Calculadora - numeros e operadores 
+- Celular - armazena diversos dados para utilizacao
+- Contagem de estoque - informa quantidade disponivel e e itens para reposição
+
+Dados usados na internet
+- Cadastro de usuario em site de compras
+- Consulta extratos bancários
+- Criação de senhas 
